@@ -1,0 +1,33 @@
+body{
+    font-family: 'Shizuru', cursive;
+}
+h1{
+    font-size: 50llllllllh
+    px;
+    color: blue;
+}
+.black{
+    color: rgb(189, 126, 33);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left:4% ;
+
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple,blue);
+    padding: 5px 30px;
+    color: yellow;
+    font-weight: 800;
+    border-radius: 10px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+}
